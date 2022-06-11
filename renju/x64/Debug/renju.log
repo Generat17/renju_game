@@ -1,0 +1,8 @@
+﻿  AI.cpp
+  Field.cpp
+  GameLogic.cpp
+  main.cpp
+C:\Users\Truma\Desktop\renju\renju\main.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Player.cpp
+  Создание кода...
+  renju.vcxproj -> C:\Users\Truma\Desktop\renju\x64\Debug\renju.exe
